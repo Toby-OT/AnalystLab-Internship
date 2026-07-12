@@ -56,5 +56,5 @@ Each week's folder is self-contained — README,raw data, cleaned data, and note
 
 ## 🔗 Connect
 
-- [LinkedIn] (https://www.linkedin.com/in/tobiloba-osikoya-692085222)
-- [X (Twitter)] (https://x.com/TobiyOT)
+- LinkedIn: https://www.linkedin.com/in/tobiloba-osikoya-692085222)
+- X (Twitter): https://x.com/TobiyOT
