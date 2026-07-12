@@ -3,7 +3,9 @@
 Repository documenting my work throughout the AnalystLab Africa Data Analytics internship — weekly tasks, datasets, cleaning pipelines, exploratory analysis, and reports.
 
 **Intern:** Tobiloba Osikoya
+
 **Track:** Data Analytics
+
 **Tools:** Python (Pandas, Matplotlib), Jupyter Notebook, SQL, Excel
 
 ---
