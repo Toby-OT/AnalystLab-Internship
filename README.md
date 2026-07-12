@@ -12,7 +12,7 @@ Repository documenting my work throughout the AnalystLab Africa Data Analytics i
 
 | Week | Task | Dataset(s) | Status |
 |---|---|---|---|
-| [Week 1](./week1) | Data Cleaning & Exploratory Data Analysis | Netflix Movies & TV Shows | ✅ Complete |
+| [Week 1](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-01-Data-Cleaning-EDA) | Data Cleaning & Exploratory Data Analysis | Netflix Movies & TV Shows | ✅ Complete |
 | [Week 2](./week2) | Data Cleaning & Exploratory Data Analysis | Online Retail (E-commerce Transactions) | ✅ Complete |
 | [Week 3](./week3) | SQL & Data Querying | TBD | 🔲 Upcoming |
 
