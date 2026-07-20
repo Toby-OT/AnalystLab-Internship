@@ -6,7 +6,7 @@ Repository documenting my work throughout the AnalystLab Africa Data Analytics i
 
 **Track:** Data Analytics
 
-**Tools:** Python (Pandas, Matplotlib), Jupyter Notebook, SQL, Excel
+**Tools:** Python (Pandas, Matplotlib), Jupyter Notebook, PostgreSQL, Excel
 
 ---
 
@@ -16,7 +16,8 @@ Repository documenting my work throughout the AnalystLab Africa Data Analytics i
 |---|---|---|---|
 | [Week 1](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-01-Data-Cleaning-EDA) | Data Cleaning & Exploratory Data Analysis | Netflix Movies & TV Shows | ✅ Complete |
 | [Week 2](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-02-Data-Cleaning-EDA) | Data Cleaning & Exploratory Data Analysis | Online Retail (E-commerce Transactions) | ✅ Complete |
-| [Week 3](./week3) | SQL & Data Querying | TBD | 🔲 Upcoming |
+| [Week 3](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-03-SQL-Data-Querying) | SQL & Data Querying | ✅ Complete |
+| [Week 4] |TBD
 
 ---
 
@@ -45,9 +46,11 @@ AnalystLab-Internship/
 │   ├── ecommerce_cleaned.csv
 │   └── Ecommerce.ipynb
 │
-└── week3/
-    ├── README.md          ← Week 3 summary (SQL & Data Querying)
-    └── ...
+└──|week3/
+  |     |---- README.md            ← Week 3 summary (SQL & Data Querying)
+  |     |---- week3-queries.sql
+  |     |---- week_3_SQL_Insights.docx
+
 ```
 
 Each week's folder is self-contained — README,raw data, cleaned data, and notebook(s) for that week's task.
