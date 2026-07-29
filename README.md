@@ -17,7 +17,7 @@ Repository documenting my work throughout the AnalystLab Africa Data Analytics i
 | [Week 1](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-01-Data-Cleaning-EDA) | Data Cleaning & Exploratory Data Analysis | Netflix Movies & TV Shows | ✅ Complete |
 | [Week 2](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-02-Data-Cleaning-EDA) | Data Cleaning & Exploratory Data Analysis | Online Retail (E-commerce Transactions) | ✅ Complete |
 | [Week 3](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-03-SQL-Data-Querying) | SQL & Data Querying | Chinook(a music store) & B2B Sales dataset | ✅ Complete |
-| [Week 4](./week4) | Data Visualization & Dashboaring | COVID-19 Time Series Data | ✅ Complete |
+| [Week 4](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-04-Data-Visualization) | Data Visualization & Dashboaring | COVID-19 Time Series Data | ✅ Complete |
 
 ---
 
