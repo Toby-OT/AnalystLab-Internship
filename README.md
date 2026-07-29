@@ -17,7 +17,7 @@ Repository documenting my work throughout the AnalystLab Africa Data Analytics i
 | [Week 1](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-01-Data-Cleaning-EDA) | Data Cleaning & Exploratory Data Analysis | Netflix Movies & TV Shows | ✅ Complete |
 | [Week 2](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-02-Data-Cleaning-EDA) | Data Cleaning & Exploratory Data Analysis | Online Retail (E-commerce Transactions) | ✅ Complete |
 | [Week 3](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-03-SQL-Data-Querying) | SQL & Data Querying | Chinook(a music store) & B2B Sales dataset | ✅ Complete |
-| [Week 4] |TBD
+| [Week 4](./week4) | Data Visualization & Dashboaring | COVID-19 Time Series Data | ✅ Complete |
 
 ---
 
@@ -50,7 +50,14 @@ AnalystLab-Internship/
   |     |---- README.md            ← Week 3 summary (SQL & Data Querying)
   |     |---- week3-queries.sql
   |     |---- week_3_SQL_Insights.docx
-
+|
+  |----week4/
+  |     |---- README.md           ← Week 4 summary (COVID-19 Dashboard)
+  |     |---- COVID19_Dashboard.pbix
+  |     |---- COVID19_Presentation.pptx
+  |     |---- time_series_covid19_confirmed_global.csv
+  |     |---- time_series_covid19_deaths_global.csv
+  |     |---- time_series_covid19_recovered_global.csv
 ```
 
 Each week's folder is self-contained — README,raw data, cleaned data, and notebook(s) for that week's task.
