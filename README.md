@@ -19,6 +19,7 @@ Repository documenting my work throughout the AnalystLab Africa Data Analytics i
 | [Week 3](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-03-SQL-Data-Querying) | SQL & Data Querying | Chinook(a music store) & B2B Sales dataset | ✅ Complete |
 | [Week 4](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-04-Data-Visualization) | Data Visualization & Dashboaring | COVID-19 Time Series Data | ✅ Complete |
 | [Week 5](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-05-Business-Analysis) | Bank Marketing Case Study & Dashboard | Bank Marketing Dataset | ✅ Complete |
+| [Week 6](https://github.com/Toby-OT/AnalystLab-Internship/blob/main/Week-06-Advanced-Python-Analysis) | Stock Market Time Series Analysis | AAPL Historical Stock Data | ✅ Complete |
 ---
 
 ## 🛠️ Tech Stack
@@ -68,6 +69,12 @@ AnalystLab-Internship/
   |     |---- bank_marketing_dashboard.pbix
   |     |---- Bank_Marketing_Case_Study.pptx
   |     |---- Bank_Marketing_Case_Study_Report.docx
+|
+  |----week6-aapl-timeseries-analysis/
+  |     |---- README.md           ← Week 6 summary (AAPL Time Series Analysis)
+  |     |---- AAPL_TimeSeries_Analysis.ipynb
+  |     |---- AAPL_Insight_Summary.docx
+  |     |---- visuals/
 ```
 
 Each week's folder is self-contained — README,raw data, cleaned data, and notebook(s) for that week's task.
