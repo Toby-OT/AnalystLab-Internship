@@ -1,0 +1,4 @@
+city,temperature,humidity,weather_condition,wind_speed,datetime
+Lagos,27.94,76,overcast clouds,3.13,2026-08-25 08:48:24
+Abuja,26.96,75,overcast clouds,1.53,2026-08-25 08:55:29
+Jos,26.01,53,broken clouds,1.29,2026-08-25 08:54:24
