@@ -20,7 +20,7 @@ Repository documenting my work throughout the AnalystLab Africa Data Analytics i
 | [Week 4](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-04-Data-Visualization) | Data Visualization & Dashboaring | COVID-19 Time Series Data | ✅ Complete |
 | [Week 5](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-05-Business-Analysis) | Bank Marketing Case Study & Dashboard | Bank Marketing Dataset | ✅ Complete |
 | [Week 6](https://github.com/Toby-OT/AnalystLab-Internship/blob/main/Week-06-Advanced-Python-Analysis) | Stock Market Time Series Analysis | AAPL Historical Stock Data | ✅ Complete |
-| [Week 7](./week7-weather-etl-pipeline) | Weather Data ETL Pipeline | OpenWeather API (Lagos, Abuja, Jos) | ✅ Complete |
+| [Week 7](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-07-ETL-Pipeline) | Weather Data ETL Pipeline | OpenWeather API (Lagos, Abuja, Jos) | ✅ Complete |
 ---
 
 ## 🛠️ Tech Stack
