@@ -42,9 +42,8 @@ AnalystLab-Internship/
 │   ├── README.md          ← Week 1 summary (Netflix dataset)
 │   ├── netflix_cleaned.csv
 │   └── Netflix.ipynb
-
-│
-├── week2/
+|
+  ├── week2/
 │   ├── README.md          ← Week 2 summary (Online Retail dataset)
 │   ├── ecommerce_cleaned.csv
 │   └── Ecommerce.ipynb
