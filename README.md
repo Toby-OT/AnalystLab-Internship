@@ -21,6 +21,7 @@ Repository documenting my work throughout the AnalystLab Africa Data Analytics i
 | [Week 5](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-05-Business-Analysis) | Bank Marketing Case Study & Dashboard | Bank Marketing Dataset | ✅ Complete |
 | [Week 6](https://github.com/Toby-OT/AnalystLab-Internship/blob/main/Week-06-Advanced-Python-Analysis) | Stock Market Time Series Analysis | AAPL Historical Stock Data | ✅ Complete |
 | [Week 7](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-07-ETL-Pipeline) | Weather Data ETL Pipeline | OpenWeather API (Lagos, Abuja, Jos) | ✅ Complete |
+| [Week 8](https://github.com/Toby-OT/AnalystLab-Internship/tree/main/Week-08-Capstone-Project) | Capstone: Human Development Comparative Analysis | World Bank WDI (Nigeria, Ghana, Kenya, South Africa, Egypt) | ✅ Complete |
 ---
 
 ## 🛠️ Tech Stack
@@ -82,6 +83,17 @@ AnalystLab-Internship/
   |     |---- weather_etl.py         
   |     |---- weather_data.csv               
   |     |---- .gitignore
+|
+  |----week8-nigeria-human-development-capstone/
+  |     |---- README.md           ← Week 8 summary (Capstone: Human Development in Nigeria)
+  |     |---- Nigeria_Human_Development_Capstone_Report.pdf
+  |     |---- WDI_Dashboard.pbix
+  |     |---- screenshots/
+  |     |     |---- overview.png
+  |     |     |---- comparison.png
+  |     |     |---- insights-recommendations.png
+  |     |---- data/
+  |     |     |---- (raw + cleaned WDI datasets)
 ```
 
 Each week's folder is self-contained — README,raw data, cleaned data, and notebook(s) for that week's task.
